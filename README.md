@@ -12,6 +12,12 @@ This application is an intelligent travel planning assistant built using OpenAI'
   - **Optimization Agent**: Refines travel plans based on user constraints.
   - **Weather Agent**: Fetches weather data for the travel destination.
 
+## Host Address
+- http://127.0.0.1:8001/frontend/index.html
+
+## to run
+- uvicorn main:app --reload --host 127.0.0.1 --port 8001
+
 
 
 

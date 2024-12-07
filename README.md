@@ -1,7 +1,7 @@
 
 # Travel Planning Assistant
 
-This application is an intelligent travel planning assistant built using OpenAI's API. It leverages modular agents to handle specific tasks, including gathering user preferences, creating travel itineraries, optimizing plans, and fetching weather data. The application supports both GPT-based and LLaMA-based models.
+This application is an intelligent travel planning assistant built using OpenAI's API. It leverages modular agents to handle specific tasks, including gathering user preferences, creating travel itineraries, optimizing plans, and fetching weather data. 
 
 ## Features
 
